@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">krediTest</string>
+
+    <string-array name="chechking_status_array">
+        <item>No Checking</item>
+        <item>&lt;0></item>
+        <item>0&lt;=X&lt;200</item>
+        <item>&gt;=200</item>
+    </string-array>
+
+    <string-array name="credit_history_array">
+        <item>Critical/other Existing Credit</item>
+        <item>Delayed Previously</item>
+        <item>Existing Paid</item>
+        <item>No Credits</item>
+        <item>All paid.</item>
+    </string-array>
+
+    <string-array name="purpose_array">
+        <item>Business</item>
+        <item>New Car</item>
+        <item>Used Car</item>
+        <item>Education</item>
+        <item>Retraining</item>
+        <item>Domestic Appliance</item>
+        <item>Radio/TV</item>
+        <item>Furniture/Equipment</item>
+        <item>Repairs</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="saving_status_array">
+        <item>No Known Savings</item>
+        <item>&lt;100</item>
+        <item>&lt;100=X&lt;500</item>
+        <item>&lt;500=X&lt;1000</item>
+        <item>&gt;=1000</item>
+    </string-array>
+
+    <string-array name="employment_array">
+        <item>Unemployed</item>
+        <item>&lt;1</item>
+        <item>&lt;1=X&lt;4</item>
+        <item>&lt;4=X&lt;7</item>
+        <item>&gt;=7</item>
+    </string-array>
+
+    <string-array name="installment_commitment_array">
+        <item>Personal Loans</item>
+        <item>No-Credit-Check Loans</item>
+        <item>Mortgages</item>
+        <item>Auto loans</item>
+    </string-array>
+
+    <string-array name="other_parties_array">
+        <item>None</item>
+        <item>Guarantor</item>
+        <item>Co-Applicant</item>
+    </string-array>
+
+    <string-array name="residence_since_array">
+        <item>0–3 Years</item>
+        <item>3–6 Years</item>
+        <item>6–9 Years</item>
+        <item>9+ Years</item>
+    </string-array>
+
+    <string-array name="property_magnitude_array">
+        <item>Car</item>
+        <item>Real Estate</item>
+        <item>Life Insurance</item>
+        <item>No Known Property</item>
+    </string-array>
+
+    <string-array name="other_payment_plans_array">
+        <item>None</item>
+        <item>Bank</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string-array name="housing_array">
+        <item>Own</item>
+        <item>Rent</item>
+        <item>For Free</item>
+    </string-array>
+
+    <string-array name="existing_credits_array">
+        <item>None</item>
+        <item>Personal Loans</item>
+        <item>Mortgages</item>
+        <item>Auto loans</item>
+    </string-array>
+
+    <string-array name="job_array">
+        <item>Skilled</item>
+        <item>Unskilled Resident</item>
+        <item>High Qualified/Self Employment/Manager</item>
+        <item>Unemployment/Unskilled Non Resident</item>
+    </string-array>
+
+    <string-array name="sex_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="marriage_array">
+        <item>single</item>
+        <item>Divorced/dep/Married</item>
+        <item>Divorced/Separated</item>
+        <item>Married/Widowed</item>
+    </string-array>
+
+    <string name="chechking_status">Checking Status =</string>
+    <string name="duration">Duration =</string>
+    <string name="duration_hint">Duration In Months</string>
+    <string name="credit_history">Credit History =</string>
+    <string name="purpose">Purpose</string>
+    <string name="credit_amount">Credit Amount =</string>
+    <string name="credit_amount_hint">Credit Amount</string>
+    <string name="saving_status">Saving Status =</string>
+    <string name="employment">Employment =</string>
+    <string name="installment_commitment">Installment Commitment= </string>
+    <string name="other_parties">Other Parties= </string>
+    <string name="residence_since">Residence Since= </string>
+    <string name="property_magnitude">Property Magnitude= </string>
+    <string name="age">Age =</string>
+    <string name="other_payment_plans">Other Payment Plans= </string>
+    <string name="housing">Housing= </string>
+    <string name="existing_credits">Existing Credits= </string>
+    <string name="job">Job= </string>
+    <string name="num_depentens">Number Of Depentends= </string>
+    <string name="foreign_worker">"Foreign Worker= "</string>
+    <string name="marriage">Marriage= </string>
+    <string name="sex">Sex= </string>
+    <string name="submit">SUBMIT</string>
+    <string name="decline">Sorry to Say That But Your Credit Has Been Declined!</string>
+    <string name="approve">Your Credit Has Been Approved!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
